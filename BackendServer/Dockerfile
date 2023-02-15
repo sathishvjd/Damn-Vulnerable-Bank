@@ -1,4 +1,4 @@
-FROM node:14.21.2
+FROM node:fermium-bullseye-slim
 
 WORKDIR /home/node/dvba
 
