@@ -15,7 +15,7 @@
     "jsonwebtoken": "^9.0.0",
     "mysql2": "^2.2.1",
     "pm2": "^4.3.0",
-    "sequelize": "^6.21.2",
+    "sequelize": "^6.28.1",
     "pdf-creator-node": "^2.2.4"
   },
   "repository": {
