@@ -12,10 +12,10 @@
   "dependencies": {
     "debug": "~2.6.9",
     "express": "^4.17.3",
-    "jsonwebtoken": "^9.0.0",
+    "jsonwebtoken": "^9.0.2",
     "mysql2": "^2.2.1",
-    "pm2": "^4.3.0",
-    "sequelize": "^6.21.2",
+    "pm2": "^5.4.0",
+    "sequelize": "^6.33.0",
     "pdf-creator-node": "^2.2.4"
   },
   "repository": {
